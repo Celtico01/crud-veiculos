@@ -35,8 +35,8 @@ O sistema gerencia dados de **veículos** e **marcas**, com a seguinte estrutura
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Celtico01/crud-veiculos.git
+cd crud-veiculos
 ```
 
 ### 2. Instale as dependências
